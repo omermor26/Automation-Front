@@ -109,8 +109,8 @@ public class Front {
 	public static void main(String[] args) {
 		
 		//LogIn details
-		String userName = "omerm2611@gmail.com";
-		String password = "112233445566";
+		String userName = "gilnada007@gmail.com";
+		String password = "gtgtgt";
 		
 		//Creating the WebDriver
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\omerm\\eclipse-workspace\\Assignment\\drivers\\chromedriver.exe");
